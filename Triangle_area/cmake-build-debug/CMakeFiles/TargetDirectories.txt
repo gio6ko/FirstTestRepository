@@ -1,0 +1,3 @@
+C:/Users/gio6k/CLionProjects/Triangle_area/cmake-build-debug/CMakeFiles/Triangle_area.dir
+C:/Users/gio6k/CLionProjects/Triangle_area/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gio6k/CLionProjects/Triangle_area/cmake-build-debug/CMakeFiles/rebuild_cache.dir
